@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+.Navbar{
+    display: flex;
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+.Nav-logo{
+height: 60%;
+width: 130px;
+}
+.logo{
+background-image: url(https://th.bing.com/th/id/OIP.M9tEWTnZNFM4Tnyt4XeAFQHaDN?cb=iwp1&w=738&h=320&rs=1&pid=ImgDetMain);
+  height: 60px;
+  width: 130px;
+  background-color: #0f1111;
+background-size:cover
+}
+.Nav-Add{
+    color: white;
+}
